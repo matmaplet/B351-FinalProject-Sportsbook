@@ -1,0 +1,7 @@
+Metric,Value
+Majority baseline accuracy,0.5201
+Logistic regression accuracy,0.5733
+Random forest accuracy,0.7644
+True simulator leader,BetMGM
+Recovered leader rank (1 = best),1
+Books ranked,11
